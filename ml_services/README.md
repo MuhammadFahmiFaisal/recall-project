@@ -591,16 +591,18 @@ Check console output for:
 
 ```
 ml_services/
-├── app.py                          # Flask API server
-├── inference_telco.py              # Recommendation model class
-├── inference_churn.py              # Churn prediction model class
-├── test_client.py                  # Testing utility
-├── requirements.txt                # Python dependencies
-├── telco_pipeline_model.pkl        # Trained recommendation model
-├── rf_churn_risk_model.pkl         # Trained churn model
-├── label_encoders.pkl              # Churn label encoders
-├── scaler.pkl                      # Churn feature scaler
-└── README.md                       # This file
+├── app.py                                            # Flask API server
+├── Capstone_ChurnRisk.ipynb                          # Jupyter notebook for model training
+├── Capstone_Telco_Recommender_Model_Final.ipynb      # Jupyter notebook for model training
+├── inference_telco.py                                # Recommendation model class
+├── inference_churn.py                                # Churn prediction model class
+├── test_client.py                                    # Testing utility
+├── requirements.txt                                  # Python dependencies
+├── telco_pipeline_model.pkl                          # Trained recommendation model
+├── rf_churn_risk_model.pkl                           # Trained churn model
+├── label_encoders.pkl                                # Churn label encoders
+├── scaler.pkl                                        # Churn feature scaler
+└── README.md                                         # This file
 ```
 
 ## 👥 Team

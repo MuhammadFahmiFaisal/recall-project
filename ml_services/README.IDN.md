@@ -590,16 +590,18 @@ Cek output console untuk:
 
 ```
 ml_services/
-├── app.py                          # Flask API server
-├── inference_telco.py              # Class model rekomendasi
-├── inference_churn.py              # Class model prediksi churn
-├── test_client.py                  # Utilitas testing
-├── requirements.txt                # Dependencies Python
-├── telco_pipeline_model.pkl        # Model rekomendasi terlatih
-├── rf_churn_risk_model.pkl         # Model churn terlatih
-├── label_encoders.pkl              # Label encoder churn
-├── scaler.pkl                      # Feature scaler churn
-└── README.md                       # File ini
+├── app.py                                            # Flask API server
+├── Capstone_ChurnRisk.ipynb                          # Notebook Jupyter untuk model training
+├── Capstone_Telco_Recommender_Model_Final.ipynb      # Notebook Jupyter untuk model training
+├── inference_telco.py                                # Class model rekomendasi
+├── inference_churn.py                                # Class model prediksi churn
+├── test_client.py                                    # Utilitas testing
+├── requirements.txt                                  # Dependencies Python
+├── telco_pipeline_model.pkl                          # Model rekomendasi terlatih
+├── rf_churn_risk_model.pkl                           # Model churn terlatih
+├── label_encoders.pkl                                # Label encoder churn
+├── scaler.pkl                                        # Feature scaler churn
+└── README.md                                         # File ini
 ```
 
 ## 👥 TIM

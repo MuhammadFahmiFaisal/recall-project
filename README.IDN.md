@@ -257,17 +257,19 @@ Project-Recall/
 │   ├── README.md             # Dokumentasi backend
 │   └── README.IDN.md         # Versi Indonesia
 │
-├── ml_services/              # Flask ML API
-│   ├── app.py                # Main Flask app
-│   ├── inference_telco.py    # Model rekomendasi
-│   ├── inference_churn.py    # Model prediksi churn
-│   ├── test_client.py        # Utility testing
-│   ├── *.pkl                 # Model terlatih
-│   ├── requirements.txt
-│   ├── README.md             # Dokumentasi ML Services
-│   └── README.IDN.md         # Versi Indonesia
+├── ml_services/                                          # Flask ML API
+│   ├── app.py                                            # Main Flask app
+│   ├── Capstone_ChurnRisk.ipynb                          # Notebook Jupyter untuk model training
+│   ├── Capstone_Telco_Recommender_Model_Final.ipynb      # Notebook Jupyter untuk model training
+│   ├── inference_telco.py                                # Model rekomendasi
+│   ├── inference_churn.py                                # Model prediksi churn
+│   ├── test_client.py                                    # Utility testing
+│   ├── *.pkl                                             # Model terlatih
+│   ├── requirements.txt                                  # Dependencies
+│   ├── README.md                                         # Dokumentasi ML Services
+│   └── README.IDN.md                                     # Versi Indonesia
 │
-└── README.md                 # File ini
+└── README.md                                             # File ini
 ```
 
 ---
