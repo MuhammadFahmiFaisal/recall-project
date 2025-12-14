@@ -11,6 +11,14 @@
 > **Theme:** Telco Customer Retention  
 > **Program:** ASAH 2025
 
+> **Link Model Recommendation:** https://s.id/Model_Recommendation
+
+> **Link Model Churn:** https://s.id/8ggdf
+ 
+> **Link Notebook Recommendation:** https://s.id/8DjVj
+ 
+> **Link Notebook Churn:** https://s.id/HQAc3
+
 ---
 
 ## 📋 Table of Contents
