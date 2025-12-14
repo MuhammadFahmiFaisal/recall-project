@@ -8,8 +8,7 @@
 **RECALL** is a comprehensive telco customer retention system powered by Machine Learning, designed to reduce customer churn and increase engagement through intelligent, personalized product recommendations.
 
 > **Team Code:** A25-CS019  
-> **Theme:**  Telco - Product Recommendation Offer based
-on Customer Behaviour 
+> **Theme:**  Telco - Product Recommendation Offer based on Customer Behaviour 
 > **Program:** Asah led by Dicoding
 > **Link Model:** https://s.id/Model_Recommendation
 
