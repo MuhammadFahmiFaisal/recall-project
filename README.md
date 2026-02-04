@@ -1,9 +1,12 @@
 # 🌟 RECALL - Recommendation & Churn Analysis Learning Lab
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/0a73f4e8-0254-424c-8604-010bfd110123" />
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-19.2.0-blue.svg)](https://reactjs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+REPOSITORY GITHUB : https://github.com/MuhammadFahmiFaisal/recall-project/
 
 **RECALL** is a comprehensive telco customer retention system powered by Machine Learning, designed to reduce customer churn and increase engagement through intelligent, personalized product recommendations.
 
